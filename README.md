@@ -1,2 +1,2 @@
 # tindev
-Tinder for developers
+Tinder for developers. Workshop Omnistack 8.0
